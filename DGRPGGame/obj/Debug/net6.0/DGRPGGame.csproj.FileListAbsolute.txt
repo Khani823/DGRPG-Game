@@ -1,0 +1,14 @@
+C:\Users\limdh\OneDrive\바탕 화면\코딩\DGRPGGame\DGRPGGame\bin\Debug\net6.0\DGRPGGame.exe
+C:\Users\limdh\OneDrive\바탕 화면\코딩\DGRPGGame\DGRPGGame\bin\Debug\net6.0\DGRPGGame.deps.json
+C:\Users\limdh\OneDrive\바탕 화면\코딩\DGRPGGame\DGRPGGame\bin\Debug\net6.0\DGRPGGame.runtimeconfig.json
+C:\Users\limdh\OneDrive\바탕 화면\코딩\DGRPGGame\DGRPGGame\bin\Debug\net6.0\DGRPGGame.dll
+C:\Users\limdh\OneDrive\바탕 화면\코딩\DGRPGGame\DGRPGGame\bin\Debug\net6.0\DGRPGGame.pdb
+C:\Users\limdh\OneDrive\바탕 화면\코딩\DGRPGGame\DGRPGGame\obj\Debug\net6.0\DGRPGGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\limdh\OneDrive\바탕 화면\코딩\DGRPGGame\DGRPGGame\obj\Debug\net6.0\DGRPGGame.AssemblyInfoInputs.cache
+C:\Users\limdh\OneDrive\바탕 화면\코딩\DGRPGGame\DGRPGGame\obj\Debug\net6.0\DGRPGGame.AssemblyInfo.cs
+C:\Users\limdh\OneDrive\바탕 화면\코딩\DGRPGGame\DGRPGGame\obj\Debug\net6.0\DGRPGGame.csproj.CoreCompileInputs.cache
+C:\Users\limdh\OneDrive\바탕 화면\코딩\DGRPGGame\DGRPGGame\obj\Debug\net6.0\DGRPGGame.dll
+C:\Users\limdh\OneDrive\바탕 화면\코딩\DGRPGGame\DGRPGGame\obj\Debug\net6.0\refint\DGRPGGame.dll
+C:\Users\limdh\OneDrive\바탕 화면\코딩\DGRPGGame\DGRPGGame\obj\Debug\net6.0\DGRPGGame.pdb
+C:\Users\limdh\OneDrive\바탕 화면\코딩\DGRPGGame\DGRPGGame\obj\Debug\net6.0\DGRPGGame.genruntimeconfig.cache
+C:\Users\limdh\OneDrive\바탕 화면\코딩\DGRPGGame\DGRPGGame\obj\Debug\net6.0\ref\DGRPGGame.dll
