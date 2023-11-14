@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\limdh\\OneDrive\\바탕 화면\\코딩\\DGRPGGame\\DGRPGGame\\DGRPGGame.csproj",
+      "projectUniqueName": "C:\\Users\\limdh\\OneDrive\\문서\\GitHub\\DGRPG-Game\\DGRPGGame\\DGRPGGame.csproj",
       "projectName": "DGRPGGame",
-      "projectPath": "C:\\Users\\limdh\\OneDrive\\바탕 화면\\코딩\\DGRPGGame\\DGRPGGame\\DGRPGGame.csproj",
+      "projectPath": "C:\\Users\\limdh\\OneDrive\\문서\\GitHub\\DGRPG-Game\\DGRPGGame\\DGRPGGame.csproj",
       "packagesPath": "C:\\Users\\limdh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\limdh\\OneDrive\\바탕 화면\\코딩\\DGRPGGame\\DGRPGGame\\obj\\",
+      "outputPath": "C:\\Users\\limdh\\OneDrive\\문서\\GitHub\\DGRPG-Game\\DGRPGGame\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\limdh\\AppData\\Roaming\\NuGet\\NuGet.Config",
